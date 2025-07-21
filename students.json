@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Asma Jamil",
+    "email": "asma@tuni.fi",
+    "password": "FUlmw+fxfXuwH4lM9XU89w\u003d\u003d",
+    "salt": "plmSCTR6vPbS7eTWNwWatQ\u003d\u003d",
+    "studentNumber": "123456",
+    "startYear": 2022,
+    "endYear": 2024,
+    "degree": "otm-67289c6a-ad0d-4e2b-8b35-252db0365cb8",
+    "attainments": [
+      {
+        "id": "otm-96cf7b2e-1e46-41a7-9735-09dda6f7ccac",
+        "name": "Urban Physics",
+        "code": "RAK.210",
+        "credits": 5,
+        "grade": "4",
+        "showGrades": true,
+        "description": "This module will introduce the fundamental principles and analytical techniques used in sustainable urban design and planning. Lecture topics will cover wind, climate, sound, light, and air pollution. Students will also be introduced to examples of urban phenomena that have a significant impact on urban sustainability, and population health including heat islands and ecosystems; microclimate, ecosystems and energy; and climate change."
+      },
+      {
+        "id": "otm-fcd2cb87-fa8c-4beb-b9d4-4258aa75b844",
+        "name": "Urban Lab 2: Planning Policy and Infrastructure",
+        "code": "SUD.210",
+        "credits": 10,
+        "grade": "5",
+        "showGrades": true,
+        "description": ""
+      },
+      {
+        "id": "otm-f97adb2a-3bf0-4993-843e-09476eee98af",
+        "name": "Engineering Geology",
+        "code": "RAK.IN.110",
+        "credits": 5,
+        "grade": "5",
+        "showGrades": true,
+        "description": ""
+      }
+    ]
+  }
+]
