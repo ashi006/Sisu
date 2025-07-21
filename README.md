@@ -1,1 +1,2 @@
 # Sisu
+This project is closely related to Sisu. In this application, student can keep track of their studies and can view degree structure of all degrees available at Tampere university. The application also provides the students the ability to manage their own progress.
